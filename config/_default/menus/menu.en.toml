@@ -20,7 +20,7 @@
   weight = 45
 
 [[main]]
-  name = "AICurious"
+  name = "test"
   url = "https://aicurious.io/"
   parent = "Links"
   weight = 10
