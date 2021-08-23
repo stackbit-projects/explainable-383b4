@@ -40,7 +40,7 @@ notes = "/:slug/"
 
 [params]
 author = "William Green"
-twitter = "@vietanhdev"
+twitter = "@eXplAIn_able"
 largeTwitterCard = false
 introDescription = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers."
 description = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers."
