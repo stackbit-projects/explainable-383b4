@@ -46,7 +46,7 @@ series = "series"
   notes = "/:slug/"
 
 [params]
-author = "Viet-Anh Nguyen"
+author = "eXplAInable"
 twitter = "@vietanhdev"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
 introDescription = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers."
