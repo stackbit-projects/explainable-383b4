@@ -39,7 +39,7 @@ posts = "/:slug/"
 notes = "/:slug/"
 
 [params]
-author = "Viet-Anh Nguyen"
+author = "William Green"
 twitter = "@vietanhdev"
 largeTwitterCard = false
 introDescription = "Building AI-powered systems. AI modeling and deployment skills for developers, students, and researchers."
