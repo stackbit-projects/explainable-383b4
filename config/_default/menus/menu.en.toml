@@ -4,7 +4,7 @@
   weight = 10
 
 [[main]]
-  name = "Notes"
+  name = "N"
   url = "/notes/"
   weight = 20
 
