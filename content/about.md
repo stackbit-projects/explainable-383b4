@@ -32,7 +32,7 @@ We are open-minded, creative, collaborative, and constantly improving our skills
 
 We enjoy a good challenge and approach each project as a new adventure.
 
-EXPERIENCE & EXPERTISE
+### **EXPERIENCE & EXPERTISE**
 
 As a growing team, we have an extensive pool of expertise in big data, machine learning and artificial intelligence. We’ve completed projects for a variety of companies and multiple industries worldwide.
 
