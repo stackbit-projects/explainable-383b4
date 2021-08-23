@@ -1,6 +1,6 @@
 baseurl = "https://aicurious.io/"
-title = "HugoCurious"
-author = "Viet-Anh Nguyen"
+title = "eXplAInble"
+author = "William Green"
 copyright = "Copyright © 2016-2020, Viet-Anh Nguyen; all rights reserved."
 paginate = 8
 PaginatePath = "/posts/"
