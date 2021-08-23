@@ -2,7 +2,7 @@
 title: "About me"
 slug: "/about/"
 discussionId: "/about/"
-date: 2020-10-10
+date: 2021-10-10
 ---
 
 <img id="my-photo" alt="Viet Anh Nguyen" src="/images/engineer.png">
