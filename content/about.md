@@ -44,5 +44,6 @@ We are ready to offer the most favorable collaboration terms for your project's 
 
 Our primary goal is to produce results beyond your expectations with solutions unique to your specific needs and business challenges. We will likely suggest data-driven benefits you may not have thought of.
 
-OPTIMIZED RESULTS
+### **OPTIMIZED RESULTS**
+
 We deliver measurable results, ensuring high accuracy and quick turnaround while minimizing risk. Our goal is to produce the best return on your investment.
