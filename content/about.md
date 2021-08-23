@@ -24,7 +24,7 @@ date: 2021-08-23
 
 **Hello!** I'm **John Doe** - A Machine Learning & Robotics Engineer.
 
-Explainable is a data science and artificial intelligence consulting company started in 2021 by William Green, who brings 11 years of experience in data science, machine learning, and AI.
+**Explainable** is a data science and artificial intelligence consulting company started in 2021 by William Green, who brings 11 years of experience in data science, machine learning, and AI.
 
 Through our network of data engineers, analysts, and designers, we ensure businesses benefit from all the emerging technologies of artificial intelligence (AI) and machine learning.
 
