@@ -40,3 +40,5 @@ We are ready to offer the most favorable collaboration terms for your project's 
 
 * provide ongoing data science management and/or maintenance.
 
+MORE THAN EXPECTED
+Our primary goal is to produce results beyond your expectations with solutions unique to your specific needs and business challenges. We will likely suggest data-driven benefits you may not have thought of.
