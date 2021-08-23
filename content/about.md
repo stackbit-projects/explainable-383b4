@@ -30,7 +30,7 @@ We customize solutions to your organization’s needs with a smooth integration 
 
 As a growing team, we have an extensive pool of expertise in big data, machine learning and artificial intelligence. We’ve completed projects for a variety of companies and multiple industries worldwide.
 
-FLEXIBLE TERMS
+### **FLEXIBLE TERMS**
 We are ready to offer the most favorable collaboration terms for your project's needs and goals. We can:
 
 advise as a consultant
