@@ -3,7 +3,7 @@
 baseurl = "https://aicurious.io/"  # Include trailing slash
 title = "eXplAInable"
 author = "William Green"
-copyright = "Copyright © 2016-2021, Viet-Anh Nguyen; all rights reserved."
+copyright = "Copyright © 2016-2021, William Green; all rights reserved."
 #canonifyurls = true
 paginate = 8
 PaginatePath = "/posts/"
