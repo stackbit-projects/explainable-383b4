@@ -22,9 +22,7 @@ date: 2021-08-23
 }
 </style>
 
-**Explainable** is a data science and artificial intelligence consulting company started in 2021 by William Green, who brings 11 years of experience in data science, machine learning, and AI.
-
-Through our network of data engineers, analysts, and designers, we ensure businesses benefit from all the emerging technologies of artificial intelligence (AI) and machine learning.
+**Explainable** is a data science and artificial intelligence consulting company started in 2021 by William Green, who brings 11 years of experience in data science, machine learning, and AI. Through our network of data engineers, analysts, and designers, we ensure businesses benefit from all the emerging technologies of artificial intelligence (AI) and machine learning.
 
 We customize solutions to your organization’s needs with a smooth integration with your existing software to improve business efficiency, both now and in the future, as changes come.
 
