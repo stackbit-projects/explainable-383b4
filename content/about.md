@@ -5,7 +5,7 @@ discussionId: "/about/"
 date: 2021-08-23
 ---
 
-<img id="my-photo" alt="Viet Anh Nguyen" src="/images/engineer.png">
+<img id="my-photo" alt="Viet Anh Nguyen" src="/images/.png">
 <style>
 #my-photo {
     width: 16rem;
