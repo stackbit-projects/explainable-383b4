@@ -30,4 +30,13 @@ We customize solutions to your organization’s needs with a smooth integration 
 
 As a growing team, we have an extensive pool of expertise in big data, machine learning and artificial intelligence. We’ve completed projects for a variety of companies and multiple industries worldwide.
 
+FLEXIBLE TERMS
+We are ready to offer the most favorable collaboration terms for your project's needs and goals. We can:
+
+advise as a consultant
+
+create and implement the solution to reach your goal
+
+provide ongoing data science management and/or maintenance.
+
 Habitasse platea dictumst vestibulum rhoncus est. Turpis egestas sed tempus urna et. Dui faucibus in ornare quam viverra orci. Amet luctus venenatis lectus magna fringilla urna. Velit euismod in pellentesque massa placerat duis ultricies lacus. Ac odio tempor orci dapibus ultrices. Sapien eget mi proin sed libero enim sed faucibus turpis. Rhoncus dolor purus non enim. Et malesuada fames ac turpis egestas. Ultrices vitae auctor eu augue. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Amet aliquam id diam maecenas ultricies mi eget mauris pharetra. Orci phasellus egestas tellus rutrum. Et malesuada fames ac turpis egestas integer eget aliquet nibh. 
