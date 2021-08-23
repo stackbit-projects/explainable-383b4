@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About us"
 slug: "/about/"
 discussionId: "/about/"
 date: 2021-08-23
