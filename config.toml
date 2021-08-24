@@ -1,7 +1,7 @@
 baseurl = "https://aicurious.io/"
 title = "HugoCurious"
 author = "William Green"
-copyright = "Copyright © 2016-2021, William Green; all rights reserved."
+copyright = "Copyright © 2016-2021, eXplAInable; all rights reserved."
 paginate = 8
 PaginatePath = "/posts/"
 theme = "clarity"
