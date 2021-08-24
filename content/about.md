@@ -5,7 +5,7 @@ discussionId: "/about/"
 date: 2021-08-23
 ---
 
-<img id="my-photo" alt="William Green" src="/images/logo.png">
+<img id="my-photo" alt="William Green" src="/images/xai.png">
 <style>
 #my-photo {
     width: 16rem;
