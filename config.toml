@@ -1,7 +1,7 @@
 baseurl = "https://aicurious.io/"
 title = " "
 author = "William Green"
-copyright = "Copyright © 2021,eXplAInable; all rights reserved."
+copyright = "Copyright © 2021, eXplAInable; all rights reserved."
 paginate = 8
 PaginatePath = "/posts/"
 theme = "clarity"
